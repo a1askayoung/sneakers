@@ -1,0 +1,93 @@
+{
+  "liked": [
+    {
+      "id": "1",
+      "name": "Мужские кроссовки Nike Blazer Mid 77 JEEMBO",
+      "img": "/img/blazer3.jpg",
+      "price": 9800
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77",
+      "img": "/img/blazer2.jpg",
+      "price": 10600,
+      "id": "k2X5VuU"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 Vintage",
+      "img": "/img/blazer1.jpg",
+      "price": 12999,
+      "id": "Mm2fArU"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 JEEMBO",
+      "img": "/img/blazer3.jpg",
+      "price": 9800,
+      "id": "QOvhfZ0"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 Vintage",
+      "img": "/img/blazer1.jpg",
+      "price": 12999,
+      "id": "1MEwKQE"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 Vintage",
+      "img": "/img/blazer1.jpg",
+      "price": 12999,
+      "id": "lhkF0LQ"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77",
+      "img": "/img/blazer2.jpg",
+      "price": 10600,
+      "id": "gA19yYI"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77",
+      "img": "/img/blazer2.jpg",
+      "price": 10600,
+      "id": "Wo3Gkg9"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 JEEMBO",
+      "img": "/img/blazer3.jpg",
+      "price": 9800,
+      "id": "Be6csPm"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 JEEMBO",
+      "img": "/img/blazer3.jpg",
+      "price": 9800,
+      "id": "SHXweKM"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 Vintage",
+      "img": "/img/blazer1.jpg",
+      "price": 12999,
+      "id": "A1NDe2d"
+    },
+    {
+      "name": "Мужские кроссовки Nike Blazer Mid 77 Vintage",
+      "img": "/img/blazer1.jpg",
+      "price": 12999,
+      "id": "hcEzGnT"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
